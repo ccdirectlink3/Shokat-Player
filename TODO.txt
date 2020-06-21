@@ -1,0 +1,2 @@
+1. write a README with screenshots, potentially a gif
+2. generate spritesheets with image patches
